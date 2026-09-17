@@ -22,8 +22,8 @@ Every state change is an on-chain event. Every payout is a smart contract call. 
 
 | Network | Contract ID | Live App URL |
 |---------|-------------|--------------|
-| **Testnet** | `CA7C6LGWPTZVUTZX7EXJVLWCQG6DVWPROBPO3FGXYKEY4W5H4HRPO5UV` | [TBD - Pending Vercel Deploy](#) |
-| **Mainnet** | `TBD - Pending Deployment` | [TBD - Pending Vercel Deploy](#) |
+| **Testnet** | `CA7C6LGWPTZVUTZX7EXJVLWCQG6DVWPROBPO3FGXYKEY4W5H4HRPO5UV` | [soroquest-app.vercel.app](https://soroquest-app.vercel.app) |
+| **Mainnet** | `TBD - Pending Deployment` | [soroquest-app.vercel.app](https://soroquest-app.vercel.app) |
 
 ---
 
