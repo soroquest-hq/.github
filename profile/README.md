@@ -58,6 +58,16 @@ Every state change is an on-chain event. Every payout is a smart contract call. 
 
 ---
 
+## 🗺️ Contributor Roadmap & Open Backlog
+
+SoroQuest is designed for open-source community co-creation. We maintain a multi-cycle backlog of **125+ pre-scoped tasks** ready for Drips Wave sprint participants:
+
+- **[Master Contributor Roadmap (125+ Scoped Tasks)](https://github.com/soroquest-hq/.github/blob/main/ROADMAP.md)**
+- **Active Sprint Backlog:** 15 pre-scoped GitHub issues open now across contracts, indexer, and web dApp.
+- **Complexity Spread:** Balanced across `complexity: trivial` (good first issues), `complexity: medium`, and `complexity: high`.
+
+---
+
 ## Contributing
 
 Each repo has its own `CONTRIBUTING.md`. The short version:
