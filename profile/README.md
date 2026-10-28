@@ -47,14 +47,14 @@ Every state change is an on-chain event. Every payout is a smart contract call. 
 
 ## Status
 
-> 🚧 Active development. Testnet deployment in progress.
+> 🚀 **Live on Stellar Testnet!** Smart contracts, indexer, and dApp are fully deployed and operational.
 
 - [x] Contract architecture and data model
 - [x] Indexer ingestion loop and REST API shape
 - [x] Frontend scaffold with all pages, hooks, and components
-- [ ] Contract deployment on testnet
-- [ ] Indexer live on Render
-- [ ] App live on Vercel
+- [x] Contract deployment on Stellar Testnet (`CA7C6LGWPTZVUTZX7EXJVLWCQG6DVWPROBPO3FGXYKEY4W5H4HRPO5UV`)
+- [x] High-performance Go indexer live on Render with PostgreSQL
+- [x] SoroQuest dApp live on Vercel ([soroquest-app.vercel.app](https://soroquest-app.vercel.app))
 
 ---
 
